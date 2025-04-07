@@ -2,7 +2,7 @@ export default [
   {
     title: "example 2",
     github: "https://github.com/Feaz13000",
-    vercel: "https://vercel.com/feaz13000s-projects",
+    vercel: "https://portfolio-rouge-two-79.vercel.app/",
   },
   {
     title: "Example",
