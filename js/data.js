@@ -1,6 +1,6 @@
 export default [
   {
-    title: "example 8 csshomweork3",
+    title: "example 9 csshomweork3",
     github: "https://github.com/Feaz13000/homework3",
     vercel: "https://vercel.com/new/feaz13000s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=homework3-rnhp2yde1-feaz13000s-projects.vercel.app&projectName=homework3&s=https%3A%2F%2Fgithub.com%2FFeaz13000%2Fhomework3&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=LYU4pESpQebiVglrZ4Iwq",
     },
