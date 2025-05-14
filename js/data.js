@@ -1,4 +1,14 @@
 export default [
+    {
+    title: "Example 14",
+    github: "https://github.com/Feaz13000/homework10dars2",
+    vercel: "https://vercel.com/new/feaz13000s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=homework10dars2-jpubhh1l6-feaz13000s-projects.vercel.app&projectName=homework10dars2&s=https%3A%2F%2Fgithub.com%2FFeaz13000%2Fhomework10dars2&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=GLFpB2vGC0F6KhY_mLCiq",
+  },
+    {
+    title: "Example 13",
+    github: "https://github.com/Feaz13000/10dars",
+    vercel: "https://vercel.com/new/feaz13000s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=10dars-rj6zdtkp3-feaz13000s-projects.vercel.app&projectName=10dars&s=https%3A%2F%2Fgithub.com%2FFeaz13000%2F10dars&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=gJ98ubS3XmOQlwKUQ-aHn",
+  },
   {
     title: "example 12",
     github: "https://6dars-delta.vercel.app/",
