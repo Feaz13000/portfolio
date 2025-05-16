@@ -1,4 +1,14 @@
-export default [
+export default [ 
+    {
+    title: "imtihon 2",
+    github: "https://github.com/Feaz13000/imtihon-1",
+    vercel: "https://imtihon-1-1.vercel.app/",
+  },
+    {
+    title: "imtihon 2",
+    github: "https://github.com/Feaz13000/imtihon-2",
+    vercel: "https://imtihon-2-gamma.vercel.app/",
+  },
     {
     title: "Example 14",
     github: "https://github.com/Feaz13000/homework10dars2",
