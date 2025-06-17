@@ -1,4 +1,14 @@
 export default [ 
+  {
+    title: "imtihon 4oy figma",
+    github: "https://github.com/Feaz13000/12imtihonfigma",
+    vercel: "https://12imtihonfigma.vercel.app/",
+  },
+  {
+    title: "imtihon 4oy javascript",
+    github: "https://github.com/Feaz13000/12darsimtihon",
+    vercel: "https://12darsimtihon.vercel.app/",
+  },
     {
     title: "imtihon 2",
     github: "https://github.com/Feaz13000/imtihon-1",
